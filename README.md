@@ -19,6 +19,13 @@ This project classifies celebrity faces using image datasets and machine learnin
   - **SVM**: 84.5%
   - **Random Forest**: 67.3%
 
+# Celebrity Names
+- **Lionel Messi**
+- **Maria Sharapova**
+- **Roger Federer**
+- **Serena Williams**
+- **Virat Kohli**
+
 # Features
 
 - Real-time celebrity face recognition via image upload
